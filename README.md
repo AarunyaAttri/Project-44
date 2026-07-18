@@ -1,2 +1,3 @@
-# Project-44
-MAKE YOUR OWN GAME - 1
+# Make Your Own Game (Platformer)
+
+A web-based interactive project.
